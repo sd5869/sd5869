@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Siddharth Dungarwal
+
+I’m an engineer with 3+ years of experience who cares about building software that is reliable, readable, and maintainable. My strongest skills are NodeJS and Python. I have experience working with startups and fast-moving teams with fixed deadlines. Give me a problem and I can try solving it by writing code.
 
 <!--
 **sd5869/sd5869** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=sd5869)
+
+<p align="center">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=sd5869" id="counter">
+</p>
